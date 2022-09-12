@@ -2,7 +2,7 @@
 
 ## :dart: Sobre
 
-Projeto desenvolvido durante o Ignite da RocketSeat, com o objetivo de criar um sistema de gestão de usuários com dashboards utilizando o Chakra UI aplicando também responsividade..
+Projeto desenvolvido durante o Ignite da RocketSeat, com o objetivo de criar um sistema de gestão de usuários com dashboards utilizando o Chakra UI aplicando também responsividade.
 
 <img alt="exemplo da tela" src="https://github.com/ricardoltt/dashgo/blob/main/.github/1.png" />
 <br>
